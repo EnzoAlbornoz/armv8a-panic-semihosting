@@ -1,0 +1,12 @@
+[package]
+name = "armv8a_panic_semihosting"
+version = "0.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[features]
+default = ["info"]
+info = []
+
+[dependencies]
+armv8a_semihosting = { path = "../armv8a-semihosting" }
