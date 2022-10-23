@@ -14,4 +14,4 @@ default = ["info"]
 info = []
 
 [dependencies]
-armv8a_semihosting = { path = "../armv8a-semihosting" }
+armv8a_semihosting = "0.0.1"
