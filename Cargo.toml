@@ -1,6 +1,6 @@
 [package]
 name = "armv8a_panic_semihosting"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
 authors = ["Enzo Albornoz <enzocoelhoalbornoz@gmail.com>"]
 license = "MIT"
