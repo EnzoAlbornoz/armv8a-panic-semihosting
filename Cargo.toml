@@ -1,5 +1,6 @@
 [package]
 name = "armv8a_panic_semihosting"
+description = "Abort handler for ARMv8 processors through semihosting"
 version = "0.0.1"
 edition = "2021"
 authors = ["Enzo Albornoz <enzocoelhoalbornoz@gmail.com>"]
